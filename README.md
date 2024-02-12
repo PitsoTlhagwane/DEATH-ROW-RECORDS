@@ -1,2 +1,4 @@
 <html>
- <h1>WELCOME TO P_DIDDY- RECORDS</h1>
+   <head>
+      <meta charset = "utf-8">
+ <title>WELCOME TO P_DIDDY-RECORDS</title>
