@@ -1,7 +1,7 @@
 <html>
    <head>
       <meta charset = "utf-8">
- <title> WELCOME TO P DIDDY RECORDS </title>
+ <h1>WELCOME TO P DIDDY RECORDS</h1>
    </head>
 
 <body>
