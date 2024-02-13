@@ -1,6 +1,6 @@
-<html>
+<DOCTYPE html>
    <head>
-      <meta charset = "utf-8">
+      <title> DEATH_ROW </title>
  <h1>WELCOME TO DEATH ROW RECORDS</h1>
    </head>
 
