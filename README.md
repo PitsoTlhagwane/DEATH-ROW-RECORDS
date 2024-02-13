@@ -1,4 +1,5 @@
 <DOCTYPE html>
+   <html>
    <head>
       <title> DEATH_ROW </title>
  <h1>WELCOME TO DEATH ROW RECORDS</h1>
